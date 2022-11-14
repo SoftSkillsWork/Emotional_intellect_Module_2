@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Course file, saved 7/1/2021 2:12:31 PM by a.petushkov using CourseLab 200122 -->
+<course3>
+<aicc_code>labmedia_soft_skills_emotional_intelligence_mod_2</aicc_code>
+<aicc_name>Эмоциональный интеллект. Как распознавать эмоции и управлять ими?</aicc_name>
+<aicc_description>Лабмедиа. Эмоциональный интеллект mod 2</aicc_description>
+<modules>
+<module>
+<name>2</name>
+<folder_id>0</folder_id>
+<file>2\1.xml</file>
+<aicc_code>mod_2</aicc_code>
+<aicc_name>Как распознавать эмоции и управлять ими?</aicc_name>
+<aicc_description>mod_2</aicc_description>
+<aicc_maxmark></aicc_maxmark>
+<aicc_reqmark></aicc_reqmark>
+</module>
+</modules>
+<windows>
+<window>
+<module>2</module>
+<zoom>73</zoom>
+<subSlideVisible>true</subSlideVisible>
+<active>true</active>
+<slide>SLIDE_11</slide>
+</window>
+</windows>
+</course3>
